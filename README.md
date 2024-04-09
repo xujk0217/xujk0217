@@ -7,7 +7,7 @@
 - 🎓 Studying Information Engineering at National Taipei University
 - 🌱 Passionate about programming and technology
 - 💻 Skilled in C, C++, Python, SwiftUI, Flutter, HTML..
-- 🚀 Winner of Swift Student Challenge WWDC24
+- 🚀 Winner of Swift Student Challenge WWDC24 : ✨[WWDCScholars](https://www.wwdcscholars.com/s/FCA42721-4914-4948-A047-95A0FFA118CF/2024)
 - 📱 Developed health-related apps using SwiftUI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xujk0217&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
