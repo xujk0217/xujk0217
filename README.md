@@ -1,6 +1,6 @@
-# Jun-Kai XU
+## Xu Jun-Kai
 
-Hello everyone! I'm Jun-Kai Hsu from Taiwan. Welcome to my GitHub profile!
+👋 Hello everyone! I'm Xu Jun-Kai from Taiwan. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -21,7 +21,7 @@ Hello everyone! I'm Jun-Kai Hsu from Taiwan. Welcome to my GitHub profile!
 Here are some of my notable projects:
 
 - [Acupressure Health App](https://github.com/xujk0217/SelfPointMassageApp.Swiftpm): A mobile app to promote health and wellness through acupressure techniques.
-- [Web Scraping Website](https://github.com/xujk0217/web-scraping-site): A web application to scrape and display data from various websites.
+- [Web Scraping Website](https://github.com/xujk0217/web_crawler): A web application to scrape and display data from various websites.
 
 ## Contribution
 
