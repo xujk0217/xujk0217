@@ -1,6 +1,6 @@
 ## Xu Jun-Kai
 
-👋 Hello everyone! I'm Xu Jun-Kai from Taiwan. Welcome to my GitHub profile!
+#### 👋 Hello everyone! I'm Xu Jun-Kai from Taiwan. Welcome to my GitHub profile!
 
 ## About Me
 
