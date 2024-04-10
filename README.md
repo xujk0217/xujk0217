@@ -1,13 +1,6 @@
 ## Xu Jun-Kai
 
 #### 👋 Hello everyone! I'm Xu Jun-Kai from Taiwan. Welcome to my GitHub profile!
-#### 🏊‍♂️ Weekly Development Breakdown
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://d.xujk0217.fun/images/wakatime_weekly_language_stats_black.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://d.xujk0217.fun/images/wakatime_weekly_language_stats.svg">
-  <img src="https://d.xujk0217.fun/images/wakatime_weekly_language_stats.svg">
-</picture>
 
 ## About Me
 
