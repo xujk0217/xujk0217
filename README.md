@@ -12,6 +12,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xujk0217&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+<strong>Github stats</strong>
+
+![XuJK's GitHub stats](https://github-readme-stats.vercel.app/api?username=xujk0217&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
+
 ## Contact Me
 
 - 📧 Email: kevin16021777@gmail.com
