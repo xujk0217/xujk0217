@@ -6,7 +6,7 @@
 
 - 🎓 Studying Information Engineering at National Taipei University
 - 🌱 Passionate about programming and technology
-- 💻 Skilled in C, C++, Python, SwiftUI, Flutter, HTML..
+- 💻 Skilled in C, C++, Python, Swift, Flutter, HTML..
 - 🚀 Winner of Swift Student Challenge WWDC24 : ✨[WWDCScholars](https://www.wwdcscholars.com/s/FCA42721-4914-4948-A047-95A0FFA118CF/2024)
 - 📱 Developed health-related apps using SwiftUI
 
