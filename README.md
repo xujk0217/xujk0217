@@ -21,7 +21,6 @@
 Here are some of my projects:
 
 - [Self Point Massage App](https://github.com/xujk0217/SelfPointMassageApp.Swiftpm): A mobile app to promote health and wellness through acupressure techniques.
-- [Web crawler Website](https://github.com/xujk0217/web_crawler): A web application to scrape and display data from various websites.
 
 ## Contribution
 
