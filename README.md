@@ -20,6 +20,7 @@
 
 Here are some of my projects:
 
+- [NTPUOne](https://github.com/xujk0217/NTPUOne): A mobile app for NTPU student.
 - [Self Point Massage App](https://github.com/xujk0217/SelfPointMassageApp.Swiftpm): A mobile app to promote health and wellness through acupressure techniques.
 
 ## Contribution
