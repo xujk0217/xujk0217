@@ -12,6 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xujk0217&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+- [personal web](https://xujk.vercel.app/)
+
 ## Contact Me
 
 - 📧 Email: kevin16021777@gmail.com
@@ -22,6 +24,7 @@ Here are some of my projects:
 
 - [NTPUOne](https://github.com/xujk0217/NTPUOne): A mobile app for NTPU student.
 - [Self Point Massage App](https://github.com/xujk0217/SelfPointMassageApp.Swiftpm): A mobile app to promote health and wellness through acupressure techniques.
+- [Just a Score](https://github.com/xujk0217/JustScore): Just an IOS app recording the scores of the game.
 
 ## Contribution
 
