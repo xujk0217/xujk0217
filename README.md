@@ -3,7 +3,7 @@
 #### 👋 Hello everyone! I'm Xu Jun-Kai from Taiwan. Welcome to my GitHub profile!
 
 ## About Me
-
+- [My personal web](https://xujk.vercel.app/)
 - 🎓 Studying Information Engineering at National Taipei University
 - 🌱 Passionate about programming and technology
 - 💻 Skilled in C, C++, Python, Swift, Flutter, HTML..
@@ -11,8 +11,6 @@
 - 📱 Developed health-related apps using SwiftUI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xujk0217&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-- [personal web](https://xujk.vercel.app/)
 
 ## Contact Me
 
